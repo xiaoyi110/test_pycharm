@@ -4,8 +4,6 @@ def func(n):
         a,b = b,a+b
 
 
-
-
     return print(a)
 func(2022)
 
