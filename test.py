@@ -3,6 +3,7 @@ def func(n):
     for i in range(n-1):
         a,b = b,a+b
 
+
     return print(a)
 func(2022)
 
