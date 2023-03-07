@@ -6,6 +6,8 @@ def func(n):
     return print(a)
 func(2022)
 
+
+
 print(33333333)
 
 
